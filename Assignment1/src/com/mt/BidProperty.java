@@ -1,4 +1,4 @@
-package com.mindtree.assignments;
+package com.mt;
 
 import java.io.BufferedReader;
 import java.io.IOException;
